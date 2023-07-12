@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	"money-mate/db"
-	"money-mate/router"
+	"github.com/Bassiouni/money-mate-api/db"
+	"github.com/Bassiouni/money-mate-api/router"
 )
 
 func init() {

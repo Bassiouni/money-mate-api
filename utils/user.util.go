@@ -3,8 +3,8 @@ package utils
 import (
 	"fmt"
 	"log"
-	"money-mate/contracts"
-	"money-mate/db/models"
+	"github.com/Bassiouni/money-mate-api/contracts"
+	"github.com/Bassiouni/money-mate-api/db/models"
 	"net/http"
 	"strconv"
 

@@ -1,9 +1,9 @@
 package models
 
 import (
+	"github.com/Bassiouni/money-mate-api/contracts"
+	"github.com/Bassiouni/money-mate-api/db"
 	"log"
-	"money-mate/contracts"
-	"money-mate/db"
 )
 
 func All() ([]contracts.User, error) {

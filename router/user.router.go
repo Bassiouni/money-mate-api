@@ -1,7 +1,7 @@
 package router
 
 import (
-	"money-mate/utils"
+	"github.com/Bassiouni/money-mate-api/utils"
 )
 
 func BindUserRouter() {

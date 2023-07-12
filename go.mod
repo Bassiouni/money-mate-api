@@ -1,4 +1,4 @@
-module money-mate
+module github.com/Bassiouni/money-mate-api
 
 go 1.20
 
